@@ -27,6 +27,6 @@ My name is Linda. 📊 I am a Data Analyst at a company dedicated to online educ
 <div align="left">
   
 [![Twitter](https://img.shields.io/badge/lindateachtech-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.twitter.com/lindateachtech/)
-[![Linkedin](https://img.shields.io/badge/lindateachtech-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lindateachtech/)
+[![Linkedin](https://img.shields.io/badge/lindateachtech-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lindatech/)
 [![github](https://img.shields.io/badge/lindateachtech-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lindateachtech/)
 
